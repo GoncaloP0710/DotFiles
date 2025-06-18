@@ -51,8 +51,8 @@ enable_cache_memory = true
 theme = "gruvbox"
 
 [styles.cpu]
-all_entry_color = "dark gray"
-avg_entry_color = "dark gray"
+all_entry_color = "gray"
+avg_entry_color = "gray"
 cpu_core_colors = ["gray", "gray", "gray", "gray", "gray", "gray", "gray", "gray"]
 
 [styles.memory]
@@ -63,19 +63,19 @@ arc_color = "gray"
 gpu_colors = ["gray", "gray", "gray", "gray", "gray", "gray"]
 
 [styles.tables]
-headers = {color = "red", bold = true}
+headers = {color = "gray", bold = true}
 
 [styles.graphs]
-graph_color = "red"
-legend_text = {color = "red"}
+graph_color = "gray"
+legend_text = {color = "gray"}
 
 [styles.widgets]
-border_color = "red"
-selected_border_color = "light red"
-widget_title = {color = "red"}
+border_color = "gray"
+selected_border_color = "gray"
+widget_title = {color = "gray"}
 text = {color = "gray"}
-selected_text = {color = "black", bg_color = "light red"}
-disabled_text = {color = "dark gray"}
+selected_text = {color = "black", bg_color = "gray"}
+disabled_text = {color = "gray"}
 
 # Layout - layouts follow a pattern like this:
 # [[row]] represents a row in the application.

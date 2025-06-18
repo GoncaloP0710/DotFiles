@@ -140,9 +140,9 @@ style = stereo
 
 gradient = 1
 gradient_count = 6
-gradient_color_1 = '#ff4d4d'  # Bright salmon red
-gradient_color_2 = '#ff6666'  # Light salmon red
-gradient_color_3 = '#ff8080'  # Softer salmon
-gradient_color_4 = '#ff9999'  # Pale salmon
-gradient_color_5 = '#ffb3b3'  # Very light salmon
-gradient_color_6 = '#ffd6d6'  # Almost white with salmon tint
+gradient_color_1 = '#000000'  # Black
+gradient_color_2 = '#333333'  # Dark gray
+gradient_color_3 = '#666666'  # Medium gray
+gradient_color_4 = '#999999'  # Light gray
+gradient_color_5 = '#cccccc'  # Very light gray
+gradient_color_6 = '#ffffff'  # White
