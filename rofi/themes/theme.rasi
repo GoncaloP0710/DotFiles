@@ -1,0 +1,8 @@
+* {
+    main-bg:    rgba(0, 0, 0, 0.85);                  // Full black background
+    main-fg:    rgba(220, 220, 220, 1);           // Light gray text
+    main-br:    rgba(150, 150, 150, 1);           // Medium gray border
+    main-ex:    rgba(180, 180, 180, 1);           // Extra highlight gray
+    select-bg:  rgba(50, 50, 50, 1);              // Darker gray selection background
+    select-fg:  rgba(255, 255, 255, 1);           // White text on selection
+}
