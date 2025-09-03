@@ -61,6 +61,7 @@ lazy.setup({
 		require("plugins.ansi"),
 		require("plugins.sourcerer"),
 		require("plugins.miasma"),
+		require("plugins.vimbegood"),
 	},
 	---@diagnostic disable-next-line
 	dev = {
